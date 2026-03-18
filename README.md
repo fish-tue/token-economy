@@ -14,10 +14,10 @@ If you use this repository, **please reference the publication below**.
 L. Pedroso, A. Agazzi, W.P.M.H. Heemels and M. Salazar, **Token Economy for Fair and Efficient Dynamic Resource Allocation in Congestion Games**, 2026 (submitted)
 ```bib
 @article{PedrosoAgazziEtAl2026TokenEconomy,
-author = {Leonardo Pedroso and Andrea Agazzi and W. P. M. H. Heemels and Mauro Salazar},
-title = {Token Economy for Fair and Efficient Dynamic Resource Allocation in Congestion Games},
-year = {2025},
-note = {submitted}
+    author = {Leonardo Pedroso and Andrea Agazzi and W. P. M. H. Heemels and Mauro Salazar},
+    title = {Token Economy for Fair and Efficient Dynamic Resource Allocation in Congestion Games},
+    year = {2025},
+    note = {submitted}
 }
 ```
 
