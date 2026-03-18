@@ -1,38 +1,21 @@
-# Evolutionary Dynamics in Continuous-time Finite-state Mean Field Games
+# Token Economy for Fair and Efficient Dynamic Resource Allocation in Congestion Games
 
 ## 🚀 Description
 
 This repository contains the **source-code of the methods and simulations** in
 
-L. Pedroso, A. Agazzi, W.P.M.H. Heemels and M. Salazar, **Evolutionary Dynamics in Continuous-time Finite-state Mean Field Games - Part I: Equilibria** (submitted)
-
-and
-
-L. Pedroso, A. Agazzi, W.P.M.H. Heemels and M. Salazar, **Evolutionary Dynamics in Continuous-time Finite-state Mean Field Games - Part II: Stability** (submitted)
-
+L. Pedroso, A. Agazzi, W.P.M.H. Heemels and M. Salazar, **Token Economy for Fair and Efficient Dynamic Resource Allocation in Congestion Games**, 2026 (submitted).
 
 
 ## 📰 Citing
 
-If you use this repository, **please reference the publications below**.
+If you use this repository, **please reference the publication below**.
 
-L. Pedroso, A. Agazzi, W.P.M.H. Heemels and M. Salazar, **Evolutionary Dynamics in Continuous-time Finite-state Mean Field Games - Part I: Equilibria** (submitted)
+L. Pedroso, A. Agazzi, W.P.M.H. Heemels and M. Salazar, **Token Economy for Fair and Efficient Dynamic Resource Allocation in Congestion Games**, 2026 (submitted)
 ```bib
-@article{PedrosoAgazziEtAl2025MFGI,
+@article{PedrosoAgazziEtAl2026TokenEconomy,
 author = {Leonardo Pedroso and Andrea Agazzi and W. P. M. H. Heemels and Mauro Salazar},
-title = {Evolutionary Dynamics in Continuous-time Finite-state Mean Field Games - Part I: Equilibria},
-year = {2025},
-note = {submitted}
-}
-```
-
-and
-
-L. Pedroso, A. Agazzi, W.P.M.H. Heemels and M. Salazar, **Evolutionary Dynamics in Continuous-time Finite-state Mean Field Games - Part II: Stability** (submitted)
-```bib
-@article{PedrosoAgazziEtAl2025MFGII,
-author = {Leonardo Pedroso and Andrea Agazzi and W. P. M. H. Heemels and Mauro Salazar},
-title = {Evolutionary Dynamics in Continuous-time Finite-state Mean Field Games - Part II: Stability},
+title = {Token Economy for Fair and Efficient Dynamic Resource Allocation in Congestion Games},
 year = {2025},
 note = {submitted}
 }
@@ -45,4 +28,4 @@ W.P.M.H. (Maurice) Heemels<sup>1</sup> <a href="https://heemels.tue.nl"><img src
 Mauro Salazar<sup>1</sup> <a href="https://scholar.google.com/citations?user=0Z9zTYwAAAAJ&hl=en"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" style="width:1em;margin-right:.5em;"></a> <a href="https://orcid.org/0000-0003-4433-5796"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
 
 <sub><sup>1</sup>Control Systems Technology section, Eindhoven University of Technology, The Netherlands<br></sub>
-<sub><sup>2</sup>Institute of Mathematical Statistics and Actuarial Science, Department of Mathematics and Statistics, University of Bern, Switzerland<br></sub>
+<sub><sup>2</sup>Department of Mathematics and Statistics, University of Bern, Switzerland<br></sub>
